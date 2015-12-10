@@ -3,7 +3,7 @@ AngularJS directive for Dropzone.js
 
 ## Installation
 ```
-bower install angular-dropzone
+bower install ngm-angular-dropzone
 ```
 
 ## Usage
